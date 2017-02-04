@@ -8,3 +8,11 @@
 
 3. 安卓
 作为通用的RN开发，在安卓上也有良好的布局体验。
+
+4. UI
+
+![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/1.PNG)
+
+![月份](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/3.PNG)
+
+![月份](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/2.PNG)
