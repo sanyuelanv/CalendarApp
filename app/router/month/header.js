@@ -1,21 +1,6 @@
 import React, {Component} from 'react'
 import {StyleSheet, Text, View,Image} from 'react-native'
 import styles from './styles'
-// import Content from './content'
-const siCi = [
-  "正月晴和风气新，纷纷已有醉游人",
-  "新年都未有芳华，二月初惊见草芽",
-  "故人西辞黄鹤楼，烟花三月下扬州",
-  "人间四月芳菲尽，山寺桃花始盛开",
-  "田家少闲月,五月人倍忙",
-  "毕竟西湖六月中，风光不与四时同",
-  "七月六日苦炎热，对食暂餐还不能",
-  "八月湖太平，涵虚混太清",
-  "可怜九月初三夜，露似珍珠月似弓",
-  "十月江南天气好，可怜冬景似春华",
-  "十一月中长至夜，三千里外远行人",
-  "寒冬十二月，晨起践严霜",
-]
 const img = [
   require('./images/1.png'),
   require('./images/2.png'),
