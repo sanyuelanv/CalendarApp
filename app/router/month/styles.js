@@ -1,12 +1,13 @@
-import {Dimensions} from 'react-native'
+import {Dimensions,Platform} from 'react-native'
 const WIDTH = Dimensions.get('window').width
 const HEIGHT = Dimensions.get('window').height
+let {OS} = Platform
 
 export default styles = {
   container: {
     flex: 1,
     alignItems: 'center',
-    paddingTop: 40,
+    paddingTop:OS == "android"?20:40,
     flexDirection: 'column',
     backgroundColor: '#fff',
   },
