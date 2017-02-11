@@ -46,12 +46,12 @@ let Header = () => {
       routeMapper = {
         {
           LeftButton:LeftButton,
-          Title:MidTitle,
           RightButton: RightButton,
+          Title:MidTitle,
         }
       }
       style = {styles.headerBlock}
     />
 )}
-/**/
+/*navigationStyles={Navigator.NavigationBar.StylesIOS}*/
 export default Header
