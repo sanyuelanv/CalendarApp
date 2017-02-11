@@ -11,6 +11,6 @@
 
 4. UI
 
-![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/5.PNG)
+![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/5.png)
 
-![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/6.PNG)
+![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/6.png)
