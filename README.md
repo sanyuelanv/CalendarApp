@@ -13,6 +13,4 @@
 
 ![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/1.PNG)
 
-![月份](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/3.PNG)
-
-![月份](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/2.PNG)
+![日历](https://raw.githubusercontent.com/sanyuelanv/CalendarApp/master/screenshots/2.PNG)
